@@ -1,5 +1,6 @@
 
 What is hacking?
+
 ➔ Hacking is referred to exploiting system vulnerabilities
 and compromising security controls to gain unauthorized 
 access to the system.
