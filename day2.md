@@ -1,4 +1,5 @@
 What is Linux
+
 ● Linux is a kernel.
 
 History of Linux
