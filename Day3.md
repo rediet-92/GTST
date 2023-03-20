@@ -5,41 +5,57 @@ kali linux Previously known as Backtrack
 There are 4 Types of desktop environment on linux
 
 1 Gnome
+
 2 KDE plasma
+
 3 mate
+
 4 XFCE
 
 1) Information gathering
 
 Tools for information gathering, in system,network, host
-dmitry
-ike-scan
-legion
-maltego
+  dmitry
+  
+  ike-scan
+  
+  legion
+  
+  maltego
 
 2) Vulnerability Analysis
 
 Tools for Finding Vulnerabilities
-lynis
-nikyo
-nmap
-unix-prives
+  lynis
+  
+  nikyo
+  
+  nmap
+  
+  unix-prives
 
 3) Web Application Analysis
 
 Tools for Finding Vulnerabilities and exploits on websites.
-burpsuite
-commix
-httrack
-skipfish
+
+  burpsuite
+  
+  commix
+  
+  httrack
+  
+  skipfish
 
 4) Database Assessment
 
 Tools for Finding Vulnerabilities and exploits on Databases.
-jSL injecti
-mdb-sql
-oscanner
-sidguesser
+  jSL injecti
+  
+  mdb-sql
+  
+  oscanner
+  
+  sidguesser
 
 5) Password Attacks
 
